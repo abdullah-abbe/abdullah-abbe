@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C#, HTML, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @me or shoot a message
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have a cat!
 
 <!---
